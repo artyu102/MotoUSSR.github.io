@@ -1,0 +1,158 @@
+/* Хеадер */
+.header{
+    height: 140px;
+    width: 1200px;
+    background-color: #262626;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header-one-glaw{
+    color: white;
+    display: inline-block;
+    vertical-align: 40px;
+    margin-left: 50px;
+}
+.header-one-img{
+    height: 100px;
+    width: 170px;
+}
+.header-one-phone{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    margin-left: 450px;
+    margin-top: 0;
+    margin-bottom: 0;
+    vertical-align: 85px;
+}
+.header-one-search{
+    vertical-align: 85px;
+    margin-left: 55px;
+    height: 25px;
+    width: 170px;
+}
+.header-one-glawnaya{
+    color: white;
+    text-decoration: none;
+    margin-left: 600px;
+    font-size: 25px;
+    border: solid black 2px;
+    padding: 10px;
+    display: inline-block;
+
+}
+.header-one-svas{
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 25px;
+    border: solid black 2px;
+    padding: 10px;
+    display: inline-block;
+}
+.main{
+    height: 1200px;
+}
+/* Иж */
+.ij{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border: 1px solid #000;
+}
+.section-one-ij{
+    display: inline-block;
+}
+.ij-one{
+    font-size: 35px;
+    vertical-align: 20px;
+    margin-left: 50px;
+}
+.section-two-ij{
+    display: inline-block;
+    margin-left: 100px;
+    vertical-align: middle;
+}
+.ij-all{
+    font-size: 20px;
+    line-height: 30px;
+}
+.section-three-ij{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 400px;
+}
+.ij-photo{
+    height: 200px;
+    width: 320px;
+}
+/* Минск */
+.section-one-minsk{
+    display: inline-block;
+    vertical-align: middle;
+}
+.section-two-minsk{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 48px;
+}
+.section-three-minsk{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 450px;
+}
+.minsk{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border: 1px solid #000;
+}
+.minsk-one{
+    font-size: 35px;
+    vertical-align: 20px;
+    margin-left: 50px;
+}
+.minsk-all{
+    font-size: 20px;
+    line-height: 30px;
+}
+.minsk-photo{
+    height: 200px;
+    width: 320px;
+}
+
+
+
+
+
+
+
+
+
+
+.footer{
+    height: 140px;
+    width: 1200px;
+    background-color: #262626;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-one-footer{
+    display: inline-block;
+}
+.section-two-footer{
+    display: inline-block;
+}
+.footer-name{
+    font-size: 35px;
+    color: white;
+    margin-left: 30px;
+}
+.footer-prav{
+    color: white;
+    letter-spacing: 2px;
+
+}
